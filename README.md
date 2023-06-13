@@ -1,1 +1,3 @@
-# seaborn
+One outstanding Python module for visualising graphical statistical graphing is Seaborn. To make the production of various statistical charts in Python more visually appealing, Seaborn offers a variety of colour palettes and elegant default styles.
+A more appealing visualisation of the essential component of comprehending and exploring data is what Seaborn Library tries to achieve. It features dataset-oriented APIs and is based on the core of the Matplotlib toolkit.
+To better understand the presented dataset, we can quickly switch between the multiple visual representations for a given variable thanks to Seaborn's close integration with Panda's data structures.
